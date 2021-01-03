@@ -31,7 +31,7 @@ ys = [start]
 
 # create plot and axes
 fig = plt.figure()
-ax = fig.add_subplot(1,1,1)
+ax = fig.add_subplot(1, 1, 1)
 
 
 # runs when graph is finished plotting
